@@ -25,7 +25,7 @@ Para usar Akame Downloader, solo tienes que ejecutar el archivo `akame_downloade
 
 Aquí tienes un ejemplo de cómo se ve el programa en acción:
 
-![Ejemplo de uso]
+## Ejemplo De Uso 💻
 
 <img src="https://github.com/g4t1nh0dg1/Akame-Downloader/assets/122117784/c15dc6ef-80cc-45b8-be54-c49aa6c07755.png" alt="Image 1"/>
 
