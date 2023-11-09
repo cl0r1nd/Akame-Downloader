@@ -27,6 +27,16 @@ Aquí tienes un ejemplo de cómo se ve el programa en acción:
 
 ![Ejemplo de uso]
 
+- https://github.com/g4t1nh0dg1/Akame-Downloader/assets/122117784/c15dc6ef-80cc-45b8-be54-c49aa6c07755
+
+- https://github.com/g4t1nh0dg1/Akame-Downloader/assets/122117784/88a86c32-e0a2-4bfb-ba47-01f6ca0702eb
+
+- https://github.com/g4t1nh0dg1/Akame-Downloader/assets/122117784/ddb078fc-cd2e-420e-ba2e-a8fe3f7491c1
+
+- https://github.com/g4t1nh0dg1/Akame-Downloader/assets/122117784/ed5e0199-9e1c-4cb8-bc70-5faa783fce18
+
+- https://github.com/g4t1nh0dg1/Akame-Downloader/assets/122117784/f72f08a3-b114-4ae8-b6ee-f625319914a6
+
 ## Contribución 🙌
 
 Si te gusta este proyecto y quieres colaborar con él, eres bienvenido/a. Puedes hacerlo de las siguientes formas:
@@ -39,7 +49,7 @@ Por favor, sigue el código de conducta y las buenas prácticas de GitHub para m
 
 ## Autor ✒️
 
-Este proyecto ha sido creado por [tu nombre], un apasionado/a de la programación y el desarrollo web. Puedes contactarme a través de [tu correo electrónico] o seguirme en [tu red social favorita].
+Este proyecto ha sido creado por _Henry Pacheco_, un apasionado/a de la programación.
 
 ## Licencia 📄
 
