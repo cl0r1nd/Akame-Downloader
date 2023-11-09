@@ -1,0 +1,2 @@
+instaloader==4.8.1
+tkinter==8.6
