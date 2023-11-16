@@ -39,7 +39,7 @@ Aquí tienes un ejemplo de cómo se ve el programa en acción:
 
 ## Contribución 🙌
 
-Si te gusta este proyecto y quieres colaborar con él, eres bienvenido/a. Puedes hacerlo de las siguientes formas:
+Si te gusta este proyecto y quieres colaborar con él, eres bienvenido. Puedes hacerlo de las siguientes formas:
 
 - Reportando bugs o sugerencias en la sección de issues.
 - Haciendo un fork del repositorio y enviando pull requests con tus mejoras o nuevas funcionalidades.
