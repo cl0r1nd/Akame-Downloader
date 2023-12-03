@@ -21,7 +21,7 @@ Puedes instalarlos usando el comando `pip install -r requirements.txt` en tu ter
 
 ## Uso 📦
 
-Para usar Akame Downloader, solo tienes que ejecutar el archivo `ig.py` y seguir las instrucciones que aparecen en la ventana. Debes ingresar el link del post de Instagram que contiene el reel que quieres descargar y hacer clic en el botón Descargar. El programa verificará que el link sea válido y que el post sea un reel. Si todo está bien, el programa descargará el reel en la carpeta Descargas y te mostrará un mensaje de éxito. Si ocurre algún error, el programa te mostrará un mensaje de error.
+Para usar Akame Downloader, solo tienes que ejecutar el archivo `Ig.py` con el comando `python .\Ig.py` y seguir las instrucciones que aparecen en la ventana. Debes ingresar el link del post de Instagram que contiene el reel que quieres descargar y hacer clic en el botón Descargar. El programa verificará que el link sea válido y que el post sea un reel. Si todo está bien, el programa descargará el reel en la carpeta Descargas y te mostrará un mensaje de éxito. Si ocurre algún error, el programa te mostrará un mensaje de error.
 
 Aquí tienes un ejemplo de cómo se ve el programa en acción:
 
